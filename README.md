@@ -12,9 +12,9 @@
 
   <p>
     <a href="https://www.lxink.cn/posts/share/seedflow">完整教程</a> • 
-    <a href="# 部署 SeedFlow"> 部署 SeedFlow</a> • 
-    <a href="# 部署服务端"> 部署服务端</a> • 
-    <a href="# 部署被控端 Agent"> 部署被控端</a> • 
+    <a href="#部署-seedflow"> 部署 SeedFlow</a> • 
+    <a href="#部署服务端"> 部署服务端</a> • 
+    <a href="#部署被控端-agent"> 部署被控端</a> • 
     <a href="https://t.me/Lx_hub">联系我</a>
   </p>
 </div>
